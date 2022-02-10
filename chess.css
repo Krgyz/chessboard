@@ -1,0 +1,28 @@
+.dark {
+    background-color: gray;
+    text-align: center;
+    font-size: 50px;
+}
+
+.light {
+    background-color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+table {
+    border-spacing: 0cm;
+    border-collapse: collapse;
+    margin: 0% 5% 0% 15%;
+    font-size: 50px;
+}
+
+.chessboard th {
+    padding: .2em;
+}
+
+td {
+    border: 2px solid;
+    width: 2em;
+    height: 2em;
+}
